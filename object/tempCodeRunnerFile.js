@@ -1,0 +1,1 @@
+    [mySym] : "mykey1"
