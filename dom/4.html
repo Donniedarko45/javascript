@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM</title>
+</head>
+
+<body style="background-color:black;color: beige ;">
+    <ul class="language">
+        <li>javascript</li>
+    </ul>
+</body>
+<script>
+    function addLanguage(langName) {
+        const li = document.createElement('li');
+        li.innerText = `${langName}`
+        document.querySelector('.language').appendChild(li)
+    }
+    addLanguage("c++")
+    addLanguage("python")
+    // this approach is not good suppose we have 1 thousand value then we have to go to end it is not optimised approach then how to add in optimised way lets do this..
+
+    function addOptiLanguage(langName) {
+        const li = document.createElement('li');
+        li.appendChild(document.createTextNode(langName))
+        document.querySelector('.language').appendChild(li)
+    }
+    addOptiLanguage("Go-lang")
+    //to-edit value
+
+    const secondlang = document.querySelector("li:nth-child(2)")
+    secondlang.innerHTML = "typescript"
+
+    //optimised approach
+    const newli = document.createElement('li')
+    newli.textContent = "mojo"
+    secondlang.replaceWith(newli)
+
+    //another method..
+    const firstLang = document.querySelector("li:first-child")
+    firstLang.outerHTML = '<li>Typescript</li>'
+
+    //remove
+
+    const lastLang = document.querySelector('li:last-child')
+    lastLang.remove()
+</script>
+
+</html>

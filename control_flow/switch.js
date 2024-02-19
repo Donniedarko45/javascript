@@ -28,3 +28,5 @@ switch (month) {
         console.log("unknown");
         break;   
 }
+
+// nullish coal

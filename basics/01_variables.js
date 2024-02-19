@@ -5,7 +5,7 @@ const account_id = 144553 // for declaration of constant we use const keyword
 let account_email = "kartikey224252@gmail.com" //use let instead of var
 var account_password = "me"
 account_city =  "dehradun" //bina kissi keyword ka use kiye bhi use kar skte h par ye tareeka acha nahi hai
-let account_state= 
+let account_state= 34
 /*
 prefer not to use var because of issue var because of issue in block scope and functional scope
 

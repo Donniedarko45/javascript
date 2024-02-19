@@ -25,3 +25,23 @@ if(useremail) {
  }else{
     console.log("object is not empty")
  } //to check object is empty or not
+
+ // nullish coalescing operator(??): null and undefined
+
+ let val1;
+ val1=5??10
+ val1=null??10
+ console.log(val1)
+
+ val2=undefined??15
+ console.log(val2)
+
+ val3=null??10??25
+ console.log(val3);
+
+
+ //ternary operator
+ /*condition ? true : false*/
+
+ const priceoftea=100
+ priceoftea<=75? console.log("less than 75"):console.log("greater than 75")
