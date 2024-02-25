@@ -17,4 +17,5 @@ console.log(Date.now())
 let newDate = new Date()
 newDate.toLocaleDateString('default',{
 weekday: "long"
-}) 
+
+})
