@@ -92,8 +92,7 @@ consumePromiseFive()
 // }
 
 //getAllUsers()
-
-fetch('https://api.github.com/users/Donniedarko45')
+fetch('https://catfact.ninja/fact')
 .then((response) => {
     return response.json()
 })

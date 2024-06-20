@@ -5,6 +5,7 @@ function add(a,b,c){
         };
     };
 }
+console.log(add(8)(3)(45))
 
 /*
 function sendAutoEmail(to){

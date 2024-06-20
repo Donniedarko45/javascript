@@ -12,12 +12,12 @@ function one(){
 }
 
 one()
-
+/* */
 if(true){
     const username="kartikey"
     if(username==="kartikey"){
         const website="youtube"
-        console.log(username+website);
+        console.log(username+" "+website);
     }
 }
 

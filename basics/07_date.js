@@ -1,7 +1,7 @@
 //Dates....->ye ekk object hai
 
 let myDate = new Date();
-// console.log(myDate.toString());
+console.log(myDate.toString());
 // console.log(myDate.toLocaleDateString()); //ye simply date bss bta dega
 let myCreatedDate = new Date(2024,3,5); //month 0 se start hote hai
 console.log(myCreatedDate.toDateString());

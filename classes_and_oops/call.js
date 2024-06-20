@@ -12,3 +12,6 @@ function createUser(username,email,password){
 
 const chai=new createUser("chai","chai@fb.com","123")
 console.log(chai);
+
+const arr=[10,20,30,40]
+console.log(arr[10])
