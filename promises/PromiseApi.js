@@ -1,0 +1,1 @@
+promise.allSetteled([p1,p2,p3])

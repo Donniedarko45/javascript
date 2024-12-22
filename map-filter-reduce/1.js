@@ -9,8 +9,7 @@ console.log(result);
 // reduce-->reduce() method is used to reduce the elements of an array to a single value. It executes a provided function for each value of the array (from left to right), resulting in a single output value.
 
 
-const arr=[5,1,
-4,78,12]
+const arr=[5,1,4,78,12]
 
 function findSum(arr){
   let sum=0

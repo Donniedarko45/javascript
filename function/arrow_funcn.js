@@ -7,7 +7,7 @@
     }
  }
  user.welcomeMessage(this)
- user.username="sam"
+ user.username="kartikey"
  user.welcomeMessage(this)
 
  //function chai(){

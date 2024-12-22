@@ -9,10 +9,9 @@ if(useremail) {
 
 /*false,0,-0, BigInt 0n,"",null,undefined,NaN -->inn sabko falsy value mana jata hai*/
 
-
 //some truthy values..
 
- /*   "0",`false`," ",[],{},function(){}   */
+ // "0",`false`," ",[],{},function(){}   
 
  if(useremail.length===0){
     console.log("array is empty")
@@ -41,7 +40,7 @@ if(useremail) {
 
 
  //ternary operator
- /*condition ? true : false*/
+ //condition ? true : false
 
  const priceoftea=100
  priceoftea<=75? console.log("less than 75"):console.log("greater than 75")

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1eec729a-1ba4-4b99-96e5-d8f2f613f521" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/01_variables.js" beforeDir="false" afterPath="$PROJECT_DIR$/basics/01_variables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/switch.js" beforeDir="false" afterPath="$PROJECT_DIR$/control_flow/switch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/truthy.js" beforeDir="false" afterPath="$PROJECT_DIR$/control_flow/truthy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dom/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/dom/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dom/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/dom/2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function/arrow_funcn.js" beforeDir="false" afterPath="$PROJECT_DIR$/function/arrow_funcn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function/nested_scope.js" beforeDir="false" afterPath="$PROJECT_DIR$/function/nested_scope.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function/temp.js" beforeDir="false" afterPath="$PROJECT_DIR$/function/temp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/acc_by_arrow_fxn.js" beforeDir="false" afterPath="$PROJECT_DIR$/loops/acc_by_arrow_fxn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map-filter-reduce/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/map-filter-reduce/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map-filter-reduce/reduce.js" beforeDir="false" afterPath="$PROJECT_DIR$/map-filter-reduce/reduce.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/color flipper/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/projects/color flipper/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/color flipper/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/color flipper/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/promises/api_request.html" beforeDir="false" afterPath="$PROJECT_DIR$/promises/api_request.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/promises/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/promises/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2kYuEBPSbcKwn7qdzZouoYaXFt0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/karti"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo List</title>
+</head>
+
+<body style="background-color:black;color: beige;">
+    <input type="text" id="todoInput" placeholder="Enter todos">
+    <button onclick="addTodo()">Add Todo</button>
+    <div class="parentTodo"></div>
+</body>
+<script>
+    function addTodo() {
+        const input = document.getElementById('todoInput');
+        const todoItem = document.createElement('div');
+        const something = document.createTextNode(todoItem);
+        todoItem.appendChild(something);
+
+        const deleteBtn = document.createElement('button');
+        deleteBtn.textContent = 'Delete';
+        deleteBtn.onclick = function() {
+            todoItem.remove();  
+        };
+
+        todoItem.appendChild(deleteBtn);
+        const parentTodo = document.querySelector('.parentTodo');
+        parentTodo.appendChild(todoItem);
+    }
+</script>
+
+</html>

@@ -11,7 +11,7 @@ prefer not to use var because of issue var because of issue in block scope and f
 
 */
 
-// account_id = 2 not alloewed
+// account_id = 2 not allowed
 
 account_email = "hihiii@gmail.com"
 var account_password = "me34"

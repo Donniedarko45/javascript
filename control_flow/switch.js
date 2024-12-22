@@ -6,7 +6,7 @@
 }*/
 
 //switch structure
-const month =3
+const month =5
 
 switch (month) {
     case 1:
@@ -18,7 +18,7 @@ switch (month) {
         break;
     case 3:
         console.log("march");
-        break;  //if we dont add break here then all the next cases is not going to check all all will be printed except default value..
+        //break;  //if we dont add break here then all the next cases is not going to check all all will be printed except default value..
     case 4:
         console.log("april");
         break;

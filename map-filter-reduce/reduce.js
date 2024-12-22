@@ -18,7 +18,7 @@ const data = [
   console.log(transformed);
 
 const output= data.map(x=>x.id + "-" + x.name);
-//console.log(typeof(output)) 
+console.log(`map output is:${output}`) 
 
 
 // filter out name of all the people whose name is 30
